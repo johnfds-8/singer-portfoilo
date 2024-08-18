@@ -33,7 +33,8 @@
 
 .tech-stack-icons {
   display: flex;
-  align-item: center;
+  justify-content: center;
+  align-items: center;
   gap: 1rem;
 
 }.spotify{
